@@ -7,6 +7,12 @@ This repository contains my work from my **AI/ML Bioinformatics Internship**.
 - Explored **AI applications in gene sequencing** and **molecular data analysis**. 
 
 ---
+
+## ⚠️ Note
+Due to confidentiality, **real datasets are not shared**.  
+The provided code demonstrates the **workflow and methodology** using public or synthetic datasets.
+
+---
 ## 🧪 Research Use Case
 
 This project demonstrates how **AI/ML can accelerate bioinformatics research**:
@@ -74,12 +80,6 @@ bioinformatics-ml-research/
 ├── README.md                      # Documentation
 ├── requirements.txt                # Dependencies
 ```
-
----
-
-## ⚠️ Note
-Due to confidentiality, **real datasets are not shared**.  
-The provided code demonstrates the **workflow and methodology** using public or synthetic datasets.
 
 ---
 
