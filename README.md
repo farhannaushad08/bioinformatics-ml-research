@@ -91,6 +91,6 @@ bioinformatics-ml-research/
 ---
 
 ## 👨‍💻 Author
-**Farhan Naushad**  
+**Md Farhan Naushad**  
 🔗 [LinkedIn](https://www.linkedin.com/in/farhannaushad01)  
 🔗 [GitHub](https://github.com/farhannaushad08)
