@@ -1,7 +1,10 @@
 # Bioinformatics AI/ML Research 🚀
 
-This repository contains my work from my **AI/ML Bioinformatics Internship**.  
-I focused on applying **Machine Learning & Deep Learning** for **molecular data analysis** and **protein sequence alignment**.
+This repository contains my work from my **AI/ML Bioinformatics Internship**. 
+
+- Applied **Machine Learning & Deep Learning** techniques to **bioinformatics research problems**.  
+- Developed **CNN models** for **biomedical image classification** on molecular datasets.  
+- Explored **AI applications in gene sequencing** and **molecular data analysis**. 
 
 ---
 ## 🧪 Research Use Case
@@ -14,7 +17,7 @@ This project demonstrates how **AI/ML can accelerate bioinformatics research**:
 
 2. **Machine Learning Models**  
    - **Random Forest & SVM**: Useful for **gene expression analysis** and **biomarker identification**.  
-   - **CNN**: Prototype for **molecular image classification**, which can be extended to protein structure images or histopathology slides.  
+   - **CNN**: Prototype for **biomedical image classification**, which can be extended to protein structure images or histopathology slides.  
 
 📌 These workflows can support **personalized medicine, molecular diagnostics, and computational drug discovery** research.  
 
@@ -38,7 +41,7 @@ Protein sequence alignment experiments using **Biopython**.
 ### 2. Molecular Models (`molecular_models/`)
 Machine Learning and Deep Learning models applied to synthetic/public datasets to **demonstrate workflows**.  
 
-- `cnn_molecular_classification.py` → Convolutional Neural Network (demo on CIFAR-10, adapted to molecular setting)  
+- `cnn_molecular_classification.py` → Convolutional Neural Network (demo on CIFAR-10, adapted to **biomedical image classification**)  
 - `ml_models.py` → Multiple ML algorithms on synthetic molecular datasets:
   - **Random Forest**
   - **Support Vector Machine (SVM)**
